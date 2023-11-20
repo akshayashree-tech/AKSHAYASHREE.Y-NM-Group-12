@@ -1,6 +1,10 @@
 # AKSHAYASHREE.Y-NM-Group-12
 Link of our Project is https://github.com/akshayashree-tech/AKSHAYASHREE.Y-NM-Group-12/
 
+Diployment link: https://food-delivery-dscet.netlify.app/
+![image](https://github.com/akshayashree-tech/AKSHAYASHREE.Y-NM-Group-12/assets/132347096/97b158ef-d7ab-48bf-b6ac-ba1988672b09)
+
+
 
 
 SRS of Project
